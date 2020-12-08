@@ -1,4 +1,4 @@
 pipeline{
 agent any
 stages{
-stage('Build'){steps{echo 'hello world ! oh'}}}}
+stage('Build'){steps{echo 'hello world ! omg'}}}}
